@@ -6,7 +6,7 @@ address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, ME"
 country: "us"
 language: "en"
 latlng: "44.365591, -68.197139"
-humandate: "June 7-8, 2018"    
+humandate: "June 7-8, 2018"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2018-06-07
 enddate: 2018-06-08
@@ -89,6 +89,7 @@ eventbrite: 44001308097
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
+  JAX employees can find the bioinformatics training room in building 1, unit 5 on this [campus map.](https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf) Visitors should bring photo ID and meet at the visitor entrance by 8:30am.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
