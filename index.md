@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "The Jackson Laboratory"
-address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, ME"
+address: "Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, ME"
 country: "us"
 language: "en"
 latlng: "44.365591, -68.197139"
@@ -89,7 +89,8 @@ eventbrite: 44001308097
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  JAX employees can find the bioinformatics training room in building 1, unit 5 on this [campus map.](https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf) Visitors should bring photo ID and meet at the visitor entrance by 8:30am.
+  JAX employees can locate the bioinformatics training room in building 1, unit 5 on
+  this <a href="https://myjax-p.jax.org/Facilities/engineering/GeneralMap/rl_locator_map.pdf">campus map</a>. Visitors should bring photo ID and meet at the visitor entrance by 8:30am.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
