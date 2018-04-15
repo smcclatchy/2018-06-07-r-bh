@@ -6,12 +6,12 @@ address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, ME"
 country: "us"
 language: "en"
 latlng: "44.365591, -68.197139"
-humandate: "June 7-8, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "June 7-8, 2018"    
+humantime: "9:00 am - 4:30 pm"
 startdate: 2018-06-07
 enddate: 2018-06-08
-instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Vivek Philip", "Sue McClatchy", "Yuka Takemon"]
+helper: ["Tim Stearns", "Stanley Yang", "Daniel Alfonsetti"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 44001308097
@@ -187,8 +187,6 @@ eventbrite: 44001308097
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 {% endcomment %}
-<h2 id="schedule">Schedule</h2>
-
 <h2 id="schedule">Schedule</h2>
 
 <div class="row">
