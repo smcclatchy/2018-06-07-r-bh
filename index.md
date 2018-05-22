@@ -11,9 +11,9 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2018-06-07
 enddate: 2018-06-08
 instructor: ["Vivek Philip", "Sue McClatchy", "Yuka Takemon"]
-helper: ["Tim Stearns", "Stanley Yang", "Daniel Alfonsetti"]
+helper: ["Tim Stearns", "Stanley Yang", "Daniel Alfonsetti", "Duy Pham", "Andrew Deighan"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  http://pad.software-carpentry.org/2018-06-07-r-bh
 eventbrite: 44001308097
 ---
 
