@@ -211,7 +211,7 @@ eventbrite: 44001308097
 </table>
 </div>
 <div class="col-md-6">
-<h3>Wednesday, June 8</h3>
+<h3>Friday, June 8</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/">Creating Publication-Quality Graphics</a></td> </tr>
 <tr> <td>10:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/09-vectorization/">Vectorization</a></td> </tr>
