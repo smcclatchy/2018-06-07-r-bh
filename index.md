@@ -200,13 +200,11 @@ eventbrite: 44001308097
 <tr> <td>10:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/">Project Management With RStudio</a></td> </tr>
 <tr> <td>10:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/">Seeking Help</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/">Data Structures</a></td> </tr>
+<tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/">Producing Reports With knitr</a></td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/">Exploring Data Frames</a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/">Subsetting Data</a></td> </tr>
+<tr> <td>13:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/">Dataframe Manipulation with dplyr</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/">Subsetting Data (continued)</a> </td> </tr>
-<tr> <td>15:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/07-control-flow/">Control Flow</a></td> </tr>
+<tr> <td>14:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/14-tidyr/">Dataframe Manipulation with tidyr</a></td> </tr>
 <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
 </table>
 </div>
@@ -216,13 +214,11 @@ eventbrite: 44001308097
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/">Creating Publication-Quality Graphics</a></td> </tr>
 <tr> <td>10:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/09-vectorization/">Vectorization</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/10-functions/">Functions Explained</a></td> </tr>
+<tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/07-control-flow/">Control Flow</a></td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/11-writing-data/">Writing Data</a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/">Dataframe Manipulation with dplyr</a></td> </tr>
+<tr> <td>13:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/10-functions/">Functions Explained</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/14-tidyr/">Dataframe Manipulation with tidyr</a></td> </tr>
-<tr> <td>15:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/">Producing Reports With knitr</a></td> </tr>
+<tr> <td>14:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/11-writing-data/">Writing Data</a></td> </tr>
 <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
 </table>
 </div>
